@@ -1,0 +1,22 @@
+.icons {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 0 25px 0;
+}
+.right {
+    display: flex;
+}
+.right .fa-regular {
+    margin-left: 10px;
+}
+names {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+.fa-html5 {
+    margin: 25px 5px 0 0;
+}
+.fa-ellipsis-vertical{
+    margin-top: 20px;
+}
